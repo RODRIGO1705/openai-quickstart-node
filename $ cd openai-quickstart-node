@@ -1,0 +1,5 @@
+cd openai-quickstart-node
+cp .env.example .env
+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
+npm install
+npm run dev
